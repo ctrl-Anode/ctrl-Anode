@@ -22,21 +22,21 @@
 
 ## About Me
 
-I'm a developer interested in building useful, maintainable, and user-focused software. I enjoy working across the frontend and backend, exploring software architecture, and experimenting with AI-powered applications.
+I'm a AI driven web developer interested in building useful, maintainable, and user-focused software. I enjoy working full stack development heavily focused on backend development, exploring software architecture, experimenting with open source technologies and AI implemented applications.
 
 My interests include:
 
 - **Full-Stack Development** — building web applications and APIs.
-- **Backend Engineering** — designing application logic, data models, and maintainable services.
+- **Backend Development** — designing application logic, data models, and maintainable services.
 - **AI and Local LLMs** — exploring practical AI applications and locally running language models.
-- **Automation and DevOps** — streamlining development workflows and exploring containerized deployment.
-- **Open Source** — learning from the developer community and sharing useful software.
+- **Automation and DevOps** — currently learning of streamlining development workflows and exploring containerized deployment.
+- **Open Source** — learning from the developer community and sharing useful software when opportunity comes.
 
 I'm continuously learning, experimenting, and improving my development workflow through hands-on projects.
 
 ## Technology Stack
 
-The technologies below reflect my areas of interest and development experience. I continue to expand my knowledge through practice and projects.
+The technologies below reflect my areas of interest and development experience. I continue to expand my knowledge through practice and small personal projects.
 
 **Frontend**
 
@@ -47,78 +47,76 @@ The technologies below reflect my areas of interest and development experience. 
 **Backend and Programming**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" alt="Node.js, Express, Python, and Java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php" alt="Node.js, Express, Python, and PHP" />
 </p>
 
 **Databases and Storage**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,redis" alt="MySQL, PostgreSQL, Firebase, and Redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,redis" alt="MySQL, Firebase, and Redis" />
 </p>
 
 **Tools and DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" alt="Git, GitHub, Docker, VS Code, and Linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Git, GitHub, Docker, VS Code, and Postman" />
 </p>
 
-**AI and Machine Learning**
+**AI Driven Development Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Python, PyTorch, and TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=chatgpt,opencode" alt="ChatGPT, OpenCode" />
 </p>
-
-> Remove any technology you have not used or do not want to present as part of your current skill set.
 
 ## Featured Projects
 
 A selection of projects I've built, explored, or planned. Project status and links should be updated as repositories become available.
 
-### 1. Anod Portfolio
+### 1. AeroTech Aeroponics System
 
-**A personal portfolio and content studio**
+**Ecomist Client - Ecomist Flask**
 
-A portfolio website designed to showcase professional experience, projects, technical skills, certificates, and other work. An administrative panel is intended to make portfolio content manageable without directly editing source code.
+<!-- A portfolio website designed to showcase professional experience, projects, technical skills, certificates, and other work. An administrative panel is intended to make portfolio content manageable without directly editing source code.
 
 - **Focus:** Portfolio management, content editing, authentication, and media uploads.
 - **Technologies:** Vue.js, JavaScript, Node.js, Express, and supporting services as implemented.
-- **Status:** Update to reflect the current implementation.
+- **Status:** Update to reflect the current implementation. -->
 
 [Repository](YOUR_ANOD_PORTFOLIO_REPOSITORY_URL) · [Live Demo](YOUR_PORTFOLIO_DEMO_URL)
 
-### 2. ERP Management System
+### 2. OIKOS-BSW
 
-**A web-based business management application**
+**Phonetics for Kids**
 
-A system for organizing inventory, transactions, user accounts, reports, and dashboard information, with role-based access control for administrative operations.
+<!-- A system for organizing inventory, transactions, user accounts, reports, and dashboard information, with role-based access control for administrative operations.
 
 - **Focus:** Business workflows, CRUD operations, reporting, and access control.
 - **Technologies:** Vue.js, Vite, Express, MySQL, Firebase, and Tailwind CSS, as implemented.
-- **Status:** Update to reflect the current implementation.
+- **Status:** Update to reflect the current implementation. -->
 
 [Repository](YOUR_ERP_REPOSITORY_URL) · [Live Demo](YOUR_ERP_DEMO_URL)
 
-### 3. Penote
+### 3. ISUZU IMS
 
-**A customizable note-taking application concept**
+**Inventory and Management System**
 
-A planned note-taking app for Android and iOS, with a focus on a customizable writing experience, local data storage, and potential cloud synchronization across devices.
+<!-- A planned note-taking app for Android and iOS, with a focus on a customizable writing experience, local data storage, and potential cloud synchronization across devices.
 
 - **Focus:** Mobile development, note organization, offline access, and synchronization.
 - **Technologies:** Expo, React Native, and a suitable local or cloud storage solution.
-- **Status:** Concept / In Development — update as appropriate.
+- **Status:** Concept / In Development — update as appropriate. -->
 
 [Repository](YOUR_PENOTE_REPOSITORY_URL)
 
-### 4. AI Fact Checker
+### 4. FMEVNT-O-TechStack-BoilerPlate
 
-**An evidence-oriented social content analysis concept**
+**Ready to use Setup Environment**
 
-A planned application that analyzes social media links, captions, images, and screenshots to help users evaluate claims and discover supporting sources.
+<!-- A planned application that analyzes social media links, captions, images, and screenshots to help users evaluate claims and discover supporting sources.
 
 - **Focus:** AI-assisted analysis, source retrieval, and evidence-based explanations.
 - **Technologies:** React Native, web technologies, Python or Node.js, and an appropriate LLM provider, depending on implementation.
-- **Status:** Concept / In Development — update as appropriate.
+- **Status:** Concept / In Development — update as appropriate. -->
 
 [Repository](YOUR_FACT_CHECKER_REPOSITORY_URL)
 

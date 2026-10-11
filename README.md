@@ -1,133 +1,223 @@
-<!-- ANIMATED HEADER (light / dark) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=180&section=header&text=ctrl-Anode&fontSize=56&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-stack%20developer%20%26%20AI%20enthusiast&descSize=18&descColor=8b949e&descAlignY=62" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:d0d7de&height=180&section=header&text=ctrl-Anode&fontSize=56&fontColor=24292f&fontAlignY=40&animation=fadeIn&desc=Full-stack%20developer%20%26%20AI%20enthusiast&descSize=18&descColor=57606a&descAlignY=62" />
-  <img width="100%" alt="ctrl-Anode - Full-stack developer and AI enthusiast" src="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:d0d7de&height=180&section=header&text=ctrl-Anode&fontSize=56&fontColor=24292f&fontAlignY=40&animation=fadeIn&desc=Full-stack%20developer%20%26%20AI%20enthusiast&descSize=18&descColor=57606a&descAlignY=62" />
-</picture>
+<!--
+  GitHub Profile README for ctrl-Anode
+  Replace all YOUR_* placeholders before publishing.
+-->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=Building+modern+web+apps+with+Vue.js+%26+Node.js;Shipping+reproducible+builds+with+Docker;Exploring+AI+and+LLM-powered+tools" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=0969DA&center=true&vCenter=true&width=620&height=40&lines=Building+modern+web+apps+with+Vue.js+%26+Node.js;Shipping+reproducible+builds+with+Docker;Exploring+AI+and+LLM-powered+tools" />
-  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=0969DA&center=true&vCenter=true&width=620&height=40&lines=Building+modern+web+apps+with+Vue.js+%26+Node.js;Shipping+reproducible+builds+with+Docker;Exploring+AI+and+LLM-powered+tools" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=ctrl-Anode&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open-Source%20Advocate&descAlignY=60&descSize=14" width="100%" alt="ctrl-Anode profile banner" />
 
-<br>
+### Building practical software. Exploring intelligent systems.
 
-<img src="https://komarev.com/ghpvc/?username=ctrl-Anode&label=Profile+views&color=0969da&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/ctrl-Anode?label=Followers&style=flat-square&color=0969da" alt="Followers" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fctrl-Anode&query=%24.public_repos&label=Public%20repos&style=flat-square&color=0969da" alt="Public repos" />
+[![GitHub](https://img.shields.io/badge/GitHub-ctrl--Anode-181717?style=flat-square&logo=github)](https://github.com/ctrl-Anode)
+[![Profile Views](https://komarev.com/ghpvc/?username=ctrl-Anode&style=flat-square&color=2563EB&label=Profile%20Views)](https://github.com/ctrl-Anode)
+
+</div>
+
+## Navigation
+
+[About](#about-me) · [Tech Stack](#technology-stack) · [Projects](#featured-projects) · [Stats](#github-statistics) · [Focus](#current-focus) · [Contributions](#open-source-contributions) · [Contact](#contact)
+
+---
+
+## About Me
+
+I'm a developer interested in building useful, maintainable, and user-focused software. I enjoy working across the frontend and backend, exploring software architecture, and experimenting with AI-powered applications.
+
+My interests include:
+
+- **Full-Stack Development** — building web applications and APIs.
+- **Backend Engineering** — designing application logic, data models, and maintainable services.
+- **AI and Local LLMs** — exploring practical AI applications and locally running language models.
+- **Automation and DevOps** — streamlining development workflows and exploring containerized deployment.
+- **Open Source** — learning from the developer community and sharing useful software.
+
+I'm continuously learning, experimenting, and improving my development workflow through hands-on projects.
+
+## Technology Stack
+
+The technologies below reflect my areas of interest and development experience. I continue to expand my knowledge through practice and projects.
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,tailwind" alt="HTML, CSS, JavaScript, Vue, Vite, and Tailwind CSS" />
+</p>
+
+**Backend and Programming**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" alt="Node.js, Express, Python, and Java" />
+</p>
+
+**Databases and Storage**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,redis" alt="MySQL, PostgreSQL, Firebase, and Redis" />
+</p>
+
+**Tools and DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" alt="Git, GitHub, Docker, VS Code, and Linux" />
+</p>
+
+**AI and Machine Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Python, PyTorch, and TensorFlow" />
+</p>
+
+> Remove any technology you have not used or do not want to present as part of your current skill set.
+
+## Featured Projects
+
+A selection of projects I've built, explored, or planned. Project status and links should be updated as repositories become available.
+
+### 1. Anod Portfolio
+
+**A personal portfolio and content studio**
+
+A portfolio website designed to showcase professional experience, projects, technical skills, certificates, and other work. An administrative panel is intended to make portfolio content manageable without directly editing source code.
+
+- **Focus:** Portfolio management, content editing, authentication, and media uploads.
+- **Technologies:** Vue.js, JavaScript, Node.js, Express, and supporting services as implemented.
+- **Status:** Update to reflect the current implementation.
+
+[Repository](YOUR_ANOD_PORTFOLIO_REPOSITORY_URL) · [Live Demo](YOUR_PORTFOLIO_DEMO_URL)
+
+### 2. ERP Management System
+
+**A web-based business management application**
+
+A system for organizing inventory, transactions, user accounts, reports, and dashboard information, with role-based access control for administrative operations.
+
+- **Focus:** Business workflows, CRUD operations, reporting, and access control.
+- **Technologies:** Vue.js, Vite, Express, MySQL, Firebase, and Tailwind CSS, as implemented.
+- **Status:** Update to reflect the current implementation.
+
+[Repository](YOUR_ERP_REPOSITORY_URL) · [Live Demo](YOUR_ERP_DEMO_URL)
+
+### 3. Penote
+
+**A customizable note-taking application concept**
+
+A planned note-taking app for Android and iOS, with a focus on a customizable writing experience, local data storage, and potential cloud synchronization across devices.
+
+- **Focus:** Mobile development, note organization, offline access, and synchronization.
+- **Technologies:** Expo, React Native, and a suitable local or cloud storage solution.
+- **Status:** Concept / In Development — update as appropriate.
+
+[Repository](YOUR_PENOTE_REPOSITORY_URL)
+
+### 4. AI Fact Checker
+
+**An evidence-oriented social content analysis concept**
+
+A planned application that analyzes social media links, captions, images, and screenshots to help users evaluate claims and discover supporting sources.
+
+- **Focus:** AI-assisted analysis, source retrieval, and evidence-based explanations.
+- **Technologies:** React Native, web technologies, Python or Node.js, and an appropriate LLM provider, depending on implementation.
+- **Status:** Concept / In Development — update as appropriate.
+
+[Repository](YOUR_FACT_CHECKER_REPOSITORY_URL)
+
+---
+
+## Project Screenshots and Demos
+
+Visual previews help visitors understand a project before opening its repository.
+
+<!-- Replace the placeholder URLs with actual screenshots or GIFs. -->
+<!-- Remove this section's placeholders when you have no images ready to publish. -->
+
+| Project | Preview |
+|---|---|
+| Anod Portfolio | ![Anod Portfolio preview](YOUR_PORTFOLIO_SCREENSHOT_URL) |
+| ERP Management System | ![ERP preview](YOUR_ERP_SCREENSHOT_URL) |
+| Penote | ![Penote preview](YOUR_PENOTE_SCREENSHOT_URL) |
+| AI Fact Checker | ![Fact Checker preview](YOUR_FACT_CHECKER_SCREENSHOT_URL) |
+
+Replace every screenshot placeholder with a direct, publicly accessible image URL. You can also store screenshots in an `assets` folder in this repository and reference them with relative paths.
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ctrl-Anode&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub profile statistics" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrl-Anode&hide_border=true&theme=transparent" height="165" alt="GitHub contribution streak" />
+
+</div>
+
+These cards rely on external services and may be unavailable or delayed. Statistics can change as repositories and contributions grow.
+
+## Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-Anode&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used programming languages on GitHub" />
+
+</div>
+
+Language statistics estimate the language composition of tracked repositories. They do not measure overall skill, proficiency, or time spent using a language.
+
+## Contribution Activity
+
+Explore my public repositories, commit history, issues, and pull requests through GitHub.
+
+- [View my repositories](https://github.com/ctrl-Anode?tab=repositories)
+- [View my contribution activity](https://github.com/ctrl-Anode)
+
+GitHub's profile contribution graph provides a native overview of recorded contributions. Activity may include only contributions that meet GitHub's contribution-display rules.
+
+## Current Focus
+
+- Improving full-stack application architecture and maintainable code organization.
+- Building and deploying applications using Docker.
+- Exploring local large language models and AI-assisted development.
+- Experimenting with AI-powered applications and evidence retrieval.
+- Learning more about automation, open-source tools, and development workflows.
+
+## Open-Source Contributions
+
+I value open-source software as a way to learn, collaborate, and improve as a developer.
+
+- [Explore my public repositories](https://github.com/ctrl-Anode?tab=repositories)
+- [Explore my pull requests](https://github.com/ctrl-Anode?tab=pulls)
+- [Explore my issues](https://github.com/ctrl-Anode?tab=issues)
+
+<!-- Add notable merged pull requests, issue fixes, or open-source projects here once verified. -->
+
+## Certifications and Learning
+
+Use this section to highlight verified certifications, completed courses, workshops, or other relevant learning milestones.
+
+- **Certification / Course:** YOUR_CERTIFICATION_NAME
+- **Issuing Organization:** YOUR_ISSUING_ORGANIZATION
+- **Credential or Verification Link:** YOUR_CREDENTIAL_URL
+
+<!-- Remove this placeholder section or replace it with verified credentials before publishing. -->
+
+## Contact
+
+I'm open to connecting with developers, learning from the community, and exploring opportunities to collaborate on useful software.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ctrl-Anode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
 
 </div>
 
 ---
 
-### About
-
-I'm a full-stack developer who enjoys building clean, fast web applications and shipping them in containers. Lately I'm spending a lot of time on AI: wiring LLM APIs into practical tools.
-
-- Building web apps with **Vue.js** and **Node.js**
-- Packaging and deploying with **Docker**
-- Currently working on an AI-powered post image analyzer (**Python + Flask**)
-- Open to collaborations on web and AI projects
-
----
-
-### Tech stack
-
 <div align="center">
 
-| | |
-|:--|:--|
-| **Frontend** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,js,html,css,vite&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue,js,html,css,vite&theme=light"><img alt="Frontend stack" src="https://skillicons.dev/icons?i=vue,js,html,css,vite&theme=light"></picture> |
-| **Backend** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,python,flask&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,python,flask&theme=light"><img alt="Backend stack" src="https://skillicons.dev/icons?i=nodejs,express,python,flask&theme=light"></picture> |
-| **DevOps & tools** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=light"><img alt="DevOps and tools" src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=light"></picture> |
-| **AI** | <img src="https://img.shields.io/badge/LLM%20APIs-6e7681?style=flat-square" alt="LLM APIs" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-6e7681?style=flat-square" alt="Prompt engineering" /> <img src="https://img.shields.io/badge/OCR%20%26%20Vision-6e7681?style=flat-square" alt="OCR and vision" /> |
+**Learn continuously. Build thoughtfully. Share what works.**
+
+<sub>Thanks for visiting my profile.</sub>
 
 </div>
-
----
-
-### GitHub stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ctrl-Anode&show_icons=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ctrl-Anode&show_icons=true&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de">
-  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ctrl-Anode&show_icons=true&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-Anode&layout=compact&langs_count=8&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-Anode&layout=compact&langs_count=8&hide_border=false&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de">
-  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-Anode&layout=compact&langs_count=8&hide_border=false&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ctrl-Anode&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&stroke=30363D">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ctrl-Anode&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&currStreakNum=24292F&sideNums=24292F&sideLabels=57606A&dates=57606A&stroke=D0D7DE">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=ctrl-Anode&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&currStreakNum=24292F&sideNums=24292F&sideLabels=57606A&dates=57606A&stroke=D0D7DE">
-</picture>
-
-</div>
-
----
-
-### Featured projects
-
-<div align="center">
-
-<a href="https://github.com/ctrl-Anode/MyShittyPortfolio">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-Anode&repo=MyShittyPortfolio&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-Anode&repo=MyShittyPortfolio&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de">
-  <img alt="MyShittyPortfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-Anode&repo=MyShittyPortfolio&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de">
-</picture>
-</a>
-<a href="https://github.com/ctrl-Anode/YOUR-FB-ANALYZER-REPO">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-Anode&repo=YOUR-FB-ANALYZER-REPO&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-Anode&repo=YOUR-FB-ANALYZER-REPO&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de">
-  <img alt="Post image analyzer" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-Anode&repo=YOUR-FB-ANALYZER-REPO&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de">
-</picture>
-</a>
-
-</div>
-
-- **[MyShittyPortfolio](https://github.com/ctrl-Anode/MyShittyPortfolio)**: personal portfolio site, containerized with Docker.
-- **[Post image analyzer](https://github.com/ctrl-Anode/YOUR-FB-ANALYZER-REPO)**: Flask app where you upload a post's image and text, choose an analysis mode (OCR + summary, caption, moderation, or fact-check flag), and get results from a free LLM API.
-
----
-
-### Contribution activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ctrl-Anode&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ctrl-Anode&bg_color=ffffff&color=24292f&line=0969da&point=24292f&area=true&area_color=0969da&hide_border=true&custom_title=Contribution%20Graph">
-  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ctrl-Anode&bg_color=ffffff&color=24292f&line=0969da&point=24292f&area=true&area_color=0969da&hide_border=true&custom_title=Contribution%20Graph">
-</picture>
-
-</div>
-
----
-
-### Let's connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0969da?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0969da?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-0969da?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![Facebook](https://img.shields.io/badge/Facebook-0969da?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR-FB/)
-[![X](https://img.shields.io/badge/X-0969da?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-HANDLE)
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=80&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:d0d7de&height=80&section=footer">
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:d0d7de&height=80&section=footer">
-</picture>

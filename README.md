@@ -1,159 +1,223 @@
-<!-- ===========================================================
+<!--
   GitHub Profile README for ctrl-Anode
-  Replace every value marked REPLACE before publishing.
-  External cards (stats, languages, activity) depend on third-party
-  services and may be slow, rate-limited, or unavailable at times.
-=========================================================== -->
+  Replace all YOUR_* placeholders before publishing.
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=ctrl-Anode&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open-Source%20Advocate&descSize=16&descAlignY=60" alt="ctrl-Anode - Full-Stack Developer | AI Enthusiast | Open-Source Advocate" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=ctrl-Anode&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open-Source%20Advocate&descAlignY=60&descSize=14" width="100%" alt="ctrl-Anode profile banner" />
 
-[About](#about-me) · [Stack](#technology-stack) · [Projects](#featured-projects) · [Demos](#screenshots-and-demos) · [Stats](#github-statistics) · [Focus](#current-focus) · [Open Source](#open-source-contributions) · [Learning](#certifications-and-learning) · [Contact](#contact)
+### Building practical software. Exploring intelligent systems.
+
+[![GitHub](https://img.shields.io/badge/GitHub-ctrl--Anode-181717?style=flat-square&logo=github)](https://github.com/ctrl-Anode)
+[![Profile Views](https://komarev.com/ghpvc/?username=ctrl-Anode&style=flat-square&color=2563EB&label=Profile%20Views)](https://github.com/ctrl-Anode)
 
 </div>
+
+## Navigation
+
+[About](#about-me) · [Tech Stack](#technology-stack) · [Projects](#featured-projects) · [Stats](#github-statistics) · [Focus](#current-focus) · [Contributions](#open-source-contributions) · [Contact](#contact)
 
 ---
 
 ## About Me
 
-I'm a developer who enjoys building practical, scalable, and maintainable software. My work spans frontend and backend development, and I'm especially interested in AI and LLM-powered applications, automation, software architecture, and open-source tools.
+I'm a developer interested in building useful, maintainable, and user-focused software. I enjoy working across the frontend and backend, exploring software architecture, and experimenting with AI-powered applications.
 
----
+My interests include:
+
+- **Full-Stack Development** — building web applications and APIs.
+- **Backend Engineering** — designing application logic, data models, and maintainable services.
+- **AI and Local LLMs** — exploring practical AI applications and locally running language models.
+- **Automation and DevOps** — streamlining development workflows and exploring containerized deployment.
+- **Open Source** — learning from the developer community and sharing useful software.
+
+I'm continuously learning, experimenting, and improving my development workflow through hands-on projects.
 
 ## Technology Stack
 
-<!-- Only list technologies you actually use. Add or remove icon IDs from https://skillicons.dev -->
+The technologies below reflect my areas of interest and development experience. I continue to expand my knowledge through practice and projects.
 
-| Category | Technologies |
-| :-- | :-- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,python&theme=dark" alt="JavaScript, Python" height="40" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" height="40" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express" height="40" /> |
-| **Databases** | <img src="https://img.shields.io/badge/SQL-1f6feb?style=for-the-badge" alt="SQL" height="28" /> <!-- REPLACE: swap for your actual database icon, e.g. skillicons ids: mysql, postgres, sqlite --> |
-| **DevOps and Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" alt="Docker, Git, GitHub" height="40" /> |
-| **AI / ML** | Python-based LLM integrations (learning and experimenting) |
+**Frontend**
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,tailwind" alt="HTML, CSS, JavaScript, Vue, Vite, and Tailwind CSS" />
+</p>
+
+**Backend and Programming**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" alt="Node.js, Express, Python, and Java" />
+</p>
+
+**Databases and Storage**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,redis" alt="MySQL, PostgreSQL, Firebase, and Redis" />
+</p>
+
+**Tools and DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" alt="Git, GitHub, Docker, VS Code, and Linux" />
+</p>
+
+**AI and Machine Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Python, PyTorch, and TensorFlow" />
+</p>
+
+> Remove any technology you have not used or do not want to present as part of your current skill set.
 
 ## Featured Projects
 
-<!-- Set the Status for each project. Replace every YOUR_REPOSITORY_URL. Do not link repos that don't exist. -->
+A selection of projects I've built, explored, or planned. Project status and links should be updated as repositories become available.
 
-| Project | Description | Stack | Status | Repository |
-| :-- | :-- | :-- | :-- | :-- |
-| **Anod Portfolio** | Personal portfolio and content studio with an admin panel for managing portfolio content. | REPLACE: actual stack | REPLACE: Completed / In development | [YOUR_REPOSITORY_URL](YOUR_REPOSITORY_URL) |
-| **ERP Management System** | Web-based system for managing inventory, transactions, users, reports, and dashboards. | REPLACE: actual stack | REPLACE: Completed / In development | [YOUR_REPOSITORY_URL](YOUR_REPOSITORY_URL) |
-| **Penote** | Customizable note-taking app for Android and iOS, with potential local storage and cloud sync. | REPLACE: planned stack | Concept | [YOUR_REPOSITORY_URL](YOUR_REPOSITORY_URL) |
-| **AI Fact Checker** | Analyzes social media posts, captions, images, and screenshots and presents evidence-based explanations. | REPLACE: actual stack | Concept | [YOUR_REPOSITORY_URL](YOUR_REPOSITORY_URL) |
+### 1. Anod Portfolio
+
+**A personal portfolio and content studio**
+
+A portfolio website designed to showcase professional experience, projects, technical skills, certificates, and other work. An administrative panel is intended to make portfolio content manageable without directly editing source code.
+
+- **Focus:** Portfolio management, content editing, authentication, and media uploads.
+- **Technologies:** Vue.js, JavaScript, Node.js, Express, and supporting services as implemented.
+- **Status:** Update to reflect the current implementation.
+
+[Repository](YOUR_ANOD_PORTFOLIO_REPOSITORY_URL) · [Live Demo](YOUR_PORTFOLIO_DEMO_URL)
+
+### 2. ERP Management System
+
+**A web-based business management application**
+
+A system for organizing inventory, transactions, user accounts, reports, and dashboard information, with role-based access control for administrative operations.
+
+- **Focus:** Business workflows, CRUD operations, reporting, and access control.
+- **Technologies:** Vue.js, Vite, Express, MySQL, Firebase, and Tailwind CSS, as implemented.
+- **Status:** Update to reflect the current implementation.
+
+[Repository](YOUR_ERP_REPOSITORY_URL) · [Live Demo](YOUR_ERP_DEMO_URL)
+
+### 3. Penote
+
+**A customizable note-taking application concept**
+
+A planned note-taking app for Android and iOS, with a focus on a customizable writing experience, local data storage, and potential cloud synchronization across devices.
+
+- **Focus:** Mobile development, note organization, offline access, and synchronization.
+- **Technologies:** Expo, React Native, and a suitable local or cloud storage solution.
+- **Status:** Concept / In Development — update as appropriate.
+
+[Repository](YOUR_PENOTE_REPOSITORY_URL)
+
+### 4. AI Fact Checker
+
+**An evidence-oriented social content analysis concept**
+
+A planned application that analyzes social media links, captions, images, and screenshots to help users evaluate claims and discover supporting sources.
+
+- **Focus:** AI-assisted analysis, source retrieval, and evidence-based explanations.
+- **Technologies:** React Native, web technologies, Python or Node.js, and an appropriate LLM provider, depending on implementation.
+- **Status:** Concept / In Development — update as appropriate.
+
+[Repository](YOUR_FACT_CHECKER_REPOSITORY_URL)
 
 ---
 
-## Screenshots and Demos
+## Project Screenshots and Demos
 
-<!-- Add real assets only. Example once you have one:
-     <img src="https://raw.githubusercontent.com/ctrl-Anode/REPO_NAME/main/docs/screenshot.png" alt="Project screenshot" width="100%" />
--->
+Visual previews help visitors understand a project before opening its repository.
 
-| Project | Preview | Live Demo |
-| :-- | :-- | :-- |
-| Anod Portfolio | REPLACE: screenshot or GIF URL | REPLACE: deployed URL |
-| ERP Management System | REPLACE: screenshot or GIF URL | REPLACE: deployed URL |
+<!-- Replace the placeholder URLs with actual screenshots or GIFs. -->
+<!-- Remove this section's placeholders when you have no images ready to publish. -->
 
----
+| Project | Preview |
+|---|---|
+| Anod Portfolio | ![Anod Portfolio preview](YOUR_PORTFOLIO_SCREENSHOT_URL) |
+| ERP Management System | ![ERP preview](YOUR_ERP_SCREENSHOT_URL) |
+| Penote | ![Penote preview](YOUR_PENOTE_SCREENSHOT_URL) |
+| AI Fact Checker | ![Fact Checker preview](YOUR_FACT_CHECKER_SCREENSHOT_URL) |
+
+Replace every screenshot placeholder with a direct, publicly accessible image URL. You can also store screenshots in an `assets` folder in this repository and reference them with relative paths.
 
 ## GitHub Statistics
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ctrl-Anode&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ctrl-Anode&show_icons=true&hide_border=true&theme=default" />
-  <img alt="ctrl-Anode GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ctrl-Anode&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117" width="480" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=ctrl-Anode&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub profile statistics" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrl-Anode&hide_border=true&theme=transparent" height="165" alt="GitHub contribution streak" />
 
 </div>
 
----
+These cards rely on external services and may be unavailable or delayed. Statistics can change as repositories and contributions grow.
 
 ## Most Used Languages
 
-<!-- Language stats reflect bytes of code in public repositories, not overall proficiency. -->
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-Anode&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-Anode&layout=compact&hide_border=true&theme=default" />
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-Anode&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" width="480" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-Anode&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used programming languages on GitHub" />
 
 </div>
 
----
+Language statistics estimate the language composition of tracked repositories. They do not measure overall skill, proficiency, or time spent using a language.
 
 ## Contribution Activity
 
-<div align="center">
+Explore my public repositories, commit history, issues, and pull requests through GitHub.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ctrl-Anode&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ctrl-Anode&hide_border=true&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true" />
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ctrl-Anode&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area=true" width="100%" />
-</picture>
+- [View my repositories](https://github.com/ctrl-Anode?tab=repositories)
+- [View my contribution activity](https://github.com/ctrl-Anode)
 
-</div>
-
-<!-- GitHub also shows your native contribution calendar below this README on your profile page. -->
-
----
+GitHub's profile contribution graph provides a native overview of recorded contributions. Activity may include only contributions that meet GitHub's contribution-display rules.
 
 ## Current Focus
 
-Areas I'm currently learning and exploring:
-
-- Full-stack application architecture
-- Docker-based deployment
-- Local LLMs and AI-powered applications
-- Open-source tools and workflows
-
----
+- Improving full-stack application architecture and maintainable code organization.
+- Building and deploying applications using Docker.
+- Exploring local large language models and AI-assisted development.
+- Experimenting with AI-powered applications and evidence retrieval.
+- Learning more about automation, open-source tools, and development workflows.
 
 ## Open-Source Contributions
 
-<!-- REPLACE with real, verifiable contributions only. Format example:
-     - [owner/repo](https://github.com/owner/repo): short description of your contribution (PR or issue link)
--->
+I value open-source software as a way to learn, collaborate, and improve as a developer.
 
-- REPLACE: repository, pull request, or issue link
-- REPLACE: repository, pull request, or issue link
+- [Explore my public repositories](https://github.com/ctrl-Anode?tab=repositories)
+- [Explore my pull requests](https://github.com/ctrl-Anode?tab=pulls)
+- [Explore my issues](https://github.com/ctrl-Anode?tab=issues)
 
----
+<!-- Add notable merged pull requests, issue fixes, or open-source projects here once verified. -->
 
 ## Certifications and Learning
 
-<!-- REPLACE with verified certificates, courses, or training. Remove this section if you have nothing to list yet. -->
+Use this section to highlight verified certifications, completed courses, workshops, or other relevant learning milestones.
 
-| Title | Provider | Year | Credential Link |
-| :-- | :-- | :-- | :-- |
-| REPLACE | REPLACE | REPLACE | REPLACE |
+- **Certification / Course:** YOUR_CERTIFICATION_NAME
+- **Issuing Organization:** YOUR_ISSUING_ORGANIZATION
+- **Credential or Verification Link:** YOUR_CREDENTIAL_URL
 
----
+<!-- Remove this placeholder section or replace it with verified credentials before publishing. -->
 
 ## Contact
 
-<!-- Replace each placeholder; delete any you don't want to show. -->
+I'm open to connecting with developers, learning from the community, and exploring opportunities to collaborate on useful software.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ctrl-Anode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Build it simple. Ship it clean. Keep learning.*
+**Learn continuously. Build thoughtfully. Share what works.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=80&section=footer" alt="" width="100%" />
+<sub>Thanks for visiting my profile.</sub>
 
 </div>

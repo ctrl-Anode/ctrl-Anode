@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=ctrl-Anode&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Eand Open-Source%20Enthusuast&descAlignY=60&descSize=14" width="100%" alt="ctrl-Anode profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=ctrl-Anode&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20And%20Open-Source%20Enthusuast&descAlignY=60&descSize=14" width="100%" alt="ctrl-Anode profile banner" />
 
 ### Building practical software. Exploring intelligent systems.
 
